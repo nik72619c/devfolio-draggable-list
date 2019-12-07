@@ -16,7 +16,7 @@ span {
 .App main {
   background-color: #fff;
   color: black;
-  padding: 10px;
+  padding: 3%;
   width: 50%;
   border: 1px solid lightgray;
 }
@@ -29,7 +29,7 @@ span {
 
 .App ul li {
   background-color: #73eacc;
-  padding: 10px 20px;
+  padding: 1% 2%;
   position: relative;
   display: flex;
   align-items: flex-start;
@@ -38,7 +38,7 @@ span {
 }
 
 .App li .drag {
-  margin-right: 15px;
+  margin-right: 1.5%;
   cursor: move;
 }
 
