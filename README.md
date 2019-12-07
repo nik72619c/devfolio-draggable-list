@@ -1,15 +1,15 @@
-## How to make and test your own React drag and drop list with 0 dependencies
-This is the source code for the drag and drop sortable list in [this](https://medium.com/@siffogh3/how-to-make-and-test-your-own-react-drag-and-drop-list-with-0-dependencies-6fb461603780) article.
+## Devfolio-draggable-list
+Simple draggable list clone of devfolio skills list, without the use of any pre-made modules
 
 
 ## Scripts
 
-Start the application:
+Install the dependencies
 ```
-npm start
+npm install
 ```
 
-Run cypress tests:
+Start the project (localhost:3000):
 ```
-npm run cypress:run
+npm start
 ```
